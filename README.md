@@ -1,3 +1,5 @@
 # Printer
 # Print a message. The code below is in Java language:
-System.out.println("Hello world!");
+public static void main(String[] args){
+  System.out.println("Hello world!");
+}
